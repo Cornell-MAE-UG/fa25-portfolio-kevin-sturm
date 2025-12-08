@@ -12,8 +12,8 @@ title                    : Kevin Sturm
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Kevin Sturm
-description              : Kevin STurm - Projects and CV 
-/fa25-portfolio-kevin-sturm/                 : "" # Set this to your repo name 
+description              : Kevin Sturm - Projects and CV 
+/fa25-portfolio-kevin-sturm/                 : "/fa25-portfolio-kevin-sturm/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal

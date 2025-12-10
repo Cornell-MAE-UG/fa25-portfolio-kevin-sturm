@@ -10,3 +10,11 @@ In our Materials class, we were assigned the job of modifying a torque wrench de
 
 I worked with a partner to slightly modify the geometry and create a Matlab script to iterate through a variety of different materials, bring us to Ti-6Al-4V, which has a high strength to weight ratio and good fracture toughness. You can see our basic dimensions below:  
 
+<div style="float: left; margin-left: 0px;
+margin-bottom: 15px;">
+  <img src="{{ site.baseurl }}/assets/images/
+TW1.png" alt="ANSYS Photo 3"
+style="width:
+600px">
+</div>
+

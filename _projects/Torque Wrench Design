@@ -3,6 +3,6 @@ layout: project
 title: Torque Wrench Design
 description: Designing a Torque Wrench to Specification
 technologies: [Matlab, Ansys]
-image: /assets/images/Quadcopter.png
+image: /assets/images/Torque-wrench.png
 ---
 

@@ -22,16 +22,12 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
  Graduation: 05, 2027
 
-- **Specialized School in Math Science and Technology**  
-  *High School Diploma*  
-  Graduation: [05, 2023]
-
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, Bambu 3D printer
-- **Programming:** Python, MATLAB, C++
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:**  Autodesk Fusion360, Bambu 3D Printer, Microsoft Office Ecosystem
+- **Programming:** MatLab, Java, JavaScript, Python, C++
+- **Tools:** 3D Printing, Laser Cutting, Hand Tools, Manual Mills, Lathes, Welding
 
 ---
 
@@ -49,10 +45,23 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **The Walsh Group - Project Engineer Intern**  
+  [May, 2025] - [August, 2025]  
+  - Engaged with HVAC, electrical, and plumbing coordinators and assisted with testing and balancing of the HVAC system; conducted verification testing of the electrical and fire safety systems
+  - Assisted the Senior Project Manager in overseeing the closeout process of a 180,000 Square Foot building as part of a DoD contract
+  - Drafted, reviewed, and revised RFIs in order to ensure proper completion of the project
+  - Participated in Project Leadership Team meetings, Safety meetings, Redzone meetings, and other meetings with NAVFAC on an as-needed basis to assist with project closeout
+
+- **NASA - Research Intern**  
+  [Aug, 2022] - [June, 2023]  
+  - Modeled and tested a fuselage-shifting mechanism to generate roll through asymmetric lift, exploring its potential
+as an aileron alternative; employed Open Vehicle Sketch Pad for aircraft modeling and data validation
+
+- **Thomas Jefferson National Accelerator Facility - Physics Research Intern**  
+  [June, 2022] - [Aug, 2023]  
+  - Collaborated with two other interns and a mentor to analyze electron-proton scattering data from the particle accelerator using new and existing Python code
+  - Published a Comment invalidating results presented by another researcher; demonstrated the published conclusion
+was largely due to overfitting the model.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: project
 title: Quadcopter Analysis
 description: PD Controller Model of a Quadcopter
-technologies used: [Matlab]
+technologies: [Matlab]
 image: /assets/images/Quadcopter.png
 ---
 

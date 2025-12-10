@@ -6,3 +6,7 @@ technologies: [Matlab, Ansys]
 image: /assets/images/Torque-wrench.png
 ---
 
+In our Materials class, we were assigned the job of modifying a torque wrench design to meet a number of specifications. The guidelines put forward were that it must be able to experience a fully reversed torque of T = ±600 in-lbf for 1,000,000 cycles. It must have a safety factor of 4 for yield or brittle failure, 2 for crack growth (for an assumed crack of .04 in), 1.5 for fatigue stress safety, and be made out of an aluminum, steel, or titanium alloy. The goal was to maximize the torque wrench's sensitivity, achieving a minimum of 1mV/V.  
+
+I worked with a partner to slightly modify the geometry and create a Matlab script to iterate through a variety of different materials, bring us to Ti-6Al-4V, which has a high strength to weight ratio and good fracture toughness. You can see our basic dimensions below:  
+

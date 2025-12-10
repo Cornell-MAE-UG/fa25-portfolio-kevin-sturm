@@ -21,7 +21,7 @@ Aspiring engineering student with a strong foundation in mechanical design, 3D M
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*
   GPA: 3.995
- Graduation: May, 2027
+  Graduation: May, 2027
 
 ---
 

@@ -13,14 +13,15 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical design, 3D Modeling, and combat robotics looking for an internship in design engineering.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
- Graduation: 05, 2027
+  *Bachelor of Science in Mechanical and Aerospace Engineering*
+  *GPA: 3.995*
+ Graduation: May, 2027
 
 ---
 
@@ -28,19 +29,6 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 - **Software:**  Autodesk Fusion360, Bambu 3D Printer, Microsoft Office Ecosystem
 - **Programming:** MatLab, Java, JavaScript, Python, C++
 - **Tools:** 3D Printing, Laser Cutting, Hand Tools, Manual Mills, Lathes, Welding
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 ---
 
@@ -66,14 +54,16 @@ was largely due to overfitting the model.
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Ironman Maryland, IRONMAN, September 20, 2025 
+- Ironman 70.3 Ohio, IRONMAN, July 20, 2025
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- **Cornell Triathlon Club - Training Chair**:  
+  *[Short Description]*  
+  - Leading weekly intensive training sessions and practices; creating training plans for athletes of all levels to cater to their abilities and individual timelines/races
+  - Collaborating with four other e-board members to manage funds and ensure smooth coordination of competitions, including the Collegiate Club National Championships
 
 ---
 

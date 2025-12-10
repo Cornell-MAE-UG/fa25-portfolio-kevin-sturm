@@ -61,7 +61,6 @@ was largely due to overfitting the model.
 
 #### Extracurricular Activities
 - **Cornell Triathlon Club - Training Chair**:  
-  *[Short Description]*  
   - Leading weekly intensive training sessions and practices; creating training plans for athletes of all levels to cater to their abilities and individual timelines/races
   - Collaborating with four other e-board members to manage funds and ensure smooth coordination of competitions, including the Collegiate Club National Championships
 

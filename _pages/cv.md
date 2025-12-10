@@ -32,6 +32,19 @@ Graduation: May, 2027
 
 ---
 
+#### Combat Robotics @ Cornell
+- **Kinetic Subteam - Subteam Lead**  
+  [May, 2025] - present  
+  - Leading a subteam of 8 engineers to design, machine, assemble, and test a 12-pound, high-kinetic-energy combat robot for regional and national competitions
+  - Developed a timeline for the entire academic year that outlines goals and deadlines on a meeting-to-meeting basis
+  - Collaborating with subteam co-lead to delegate tasks and responsibilities to ensure completion of two robots simultaneously, including the first full scale subteam revamp in the team’s history
+- **Kinetic Subteam - Member**  
+  [October, 2023] - [May, 2025]
+- **Testbox Project - Lead**
+  - Worked with a team to design, CAD, and build a steel frame box with polycarbonate inserts for testing highenergy robotic weapons
+
+---
+
 #### Work Experience
 - **The Walsh Group - Project Engineer Intern**  
   [May, 2025] - [August, 2025]  

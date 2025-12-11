@@ -18,7 +18,9 @@ I worked with a partner to slightly modify the geometry and create a Matlab scri
          alt= "Basic Dimensions of Model"
          style= "width: 500px;" >
 </p>
- 
+
+In order to correctly restrain our Ansys model, we ensured the location of the drive would not move and the face of the handle would experience a load that would give it a torque of 600 in-lbf, as seen below:
+
 <p>
     <img src="{{ "/assets/images/TW2.png" | relative_url }}"
          alt= "Basic Dimensions of Model"

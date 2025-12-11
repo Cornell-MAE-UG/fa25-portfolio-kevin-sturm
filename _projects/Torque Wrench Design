@@ -21,7 +21,7 @@ I worked with a partner to slightly modify the geometry and create a Matlab scri
 
 In order to correctly restrain our Ansys model, we ensured the location of the drive would not move and the face of the handle would experience a load that would give it a torque of 600 in-lbf, as seen below:
 
-<p>
+</p>
     <img src="{{ "/assets/images/TW2.png" | relative_url }}"
          alt= "Constraints"
          style= "width: 500px;" >
@@ -29,7 +29,7 @@ In order to correctly restrain our Ansys model, we ensured the location of the d
 
 After this, we looked specifically at the FEM anlysis output of the normal strain in the gauge direction.
 
-<p>
+</p>
     <img src="{{ "/assets/images/TW3.png" | relative_url }}"
          alt= "Basic Dimensions of Model"
          style= "width: 500px;" >
@@ -37,7 +37,7 @@ After this, we looked specifically at the FEM anlysis output of the normal strai
 
 Finally, we looked at the contours of the maximum principal stress found in my model.
 
-<p>
+</p>
     <img src="{{ "/assets/images/TW4.png" | relative_url }}"
          alt= "Basic Dimensions of Model"
          style= "width: 500px;" >

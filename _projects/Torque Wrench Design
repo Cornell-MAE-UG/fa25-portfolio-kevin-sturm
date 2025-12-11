@@ -27,13 +27,16 @@ In order to correctly restrain our Ansys model, we ensured the location of the d
          style= "width: 500px;" >
 </p>
 
-After this, we looked specifically at how the strain and stress were distributed on the torque wrench:
+After this, we looked specifically at the FEM anlysis output of the normal strain in the gauge direction.
 
 <p>
     <img src="{{ "/assets/images/TW3.png" | relative_url }}"
          alt= "Basic Dimensions of Model"
          style= "width: 500px;" >
 </p>
+
+Finally, we looked at the contours of the maximum principal stress found in my model.
+
 <p>
     <img src="{{ "/assets/images/TW4.png" | relative_url }}"
          alt= "Basic Dimensions of Model"
@@ -45,7 +48,7 @@ Maximum normal stress: 41884psi
 Load point deflection: 0.2908in
 Strain at strain gauge: 0.0013067 in/in  
 Using this strain gauge, we find that our strain gauge has a sensitivbity of .00131 in/in, or 1.3 mV/V.  
-
+</p>
 When designing this torque wrench, we would need to select an appropriate strain gauge. The one we would use is the Omega SGD-2/350-LY13. It is about .079 in x .0984 in, so it would fit easily onto the torque wrench.  
-
+</p>
 We met all of the design requirements, and exceeded the minimum torque sensitivity by more than 30% of the goal.

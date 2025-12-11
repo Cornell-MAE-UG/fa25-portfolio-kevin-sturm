@@ -8,4 +8,4 @@ image: /assets/images/Quadcopter.png
 
 In our System Dynamics class, we were tasked with the job of researching and modeling a complex system and applying the concepts we had used throughout the year. We chose to look into a quadcopter, and model how the system responds to user input to achieve a desired angle. I worked in a group with 3 other students, and worked to derive the ODEs that govern the system and create a simple animation of the observed behavior.  
   
-You can take a look at our full report <a href="{{/assets/Quadcopter-Analysis.pdf | relative_url }}">here</a>
+You can take a look at our full report [here]({{ '/assets/Quadcopter-Analysis.pdf' | relative_url }}).

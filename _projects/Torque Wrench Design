@@ -13,7 +13,10 @@ I worked with a partner to slightly modify the geometry and create a Matlab scri
 <div style="clear: both;"></div>
 
 
-![Basic Dimensions of Model]({{ "/assets/images/TW1.jpg" | relative_url }}){: .inline-image-l style="width: 500px;" }
-
-And this is a test line idk why but let us check. 
+<p>
+    <img src="{{ "/assets/images/TW1.jpg" | relative_url }}"
+         alt= "Basic Dimensions of Model"
+         style= "width: 500px;" >
+</p>
+ 
 

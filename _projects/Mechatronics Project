@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics Project
 description: Designing a robot for Cube Craze
 technologies: [N/A]
-image: /assets/images/Mechatronics-Robot.jpg
+image: /assets/images/Mechatronics.jpg
 ---
 
 In our Mechatronics class, we were tasked with creating a robot to compete in the competition Cube Craze, where the goal is to collect more cubes than the opponent. 

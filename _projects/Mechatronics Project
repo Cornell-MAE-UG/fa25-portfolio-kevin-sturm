@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics Project
 description: Designing a robot for Cube Craze
 technologies: [N/A]
-image: /assets/images/cat-on-roof.jpg
+image: /assets/images/Mechatronics-Robot.heic
 ---
 
-In our Heat Transfer class, we were tasked with evaluating a hot roof with given properties and the safety of it for a cat to run on. Given the properties and conditions at steady state, we were asked to find the temperature of the roof. Through some simple calculations, we were able to find that the temperature on this day was about 350K, and therefore is NOT safe for a cat to walk on. It was interesting to dissect a problem like this, as the primary concern is something related to safety, which can be roughly analyzed through methods we learned early on in our class.
+In our Mechatronics class, we were tasked with creating a robot to compete in the competition Cube Craze, where the goal is to collect more cubes than the opponent. 
